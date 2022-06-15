@@ -18,23 +18,23 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.ownernomer = '6281575886399'
-global.premium = ['6281575886399']
-global.ownername = 'Keyol Keren'
-global.botname = 'Keyolbot-Md'
-global.footer = 'Keyolbot-Md'
-global.email = 'selawikwok@gmail.com'
-global.ig = 'https://instagram.com/shelaaa817'
-global.region = 'Planet China'
+global.owner = ['6285641476033','6285842769268','6281227250948']
+global.ownernomer = '6285641476033'
+global.premium = ['6285641476033']
+global.ownername = 'Xdit'
+global.botname = 'Xdit-Md'
+global.footer = 'Xdit-Md'
+global.email = 'rya76438@gmail.com'
+global.ig = 'https://instagram.com/hai_om.qw'
+global.region = 'Planet Mars'
 
 // Keperluan buttons
-global.myweb = 'https://api-riych.herokuapp.com/'
-global.sc = 'https://github.com/Keyols/Keyolbot-Md'
+global.myweb = 'https://instagram.com/hai_om.qw'
+global.sc = 'https://instagram.com/hai_om.qw'
 
 // Wm
-global.packname = 'Keyolbot-Md'
-global.author = 'WhatsApp Bot Multi-Device'
+global.packname = 'StickerBy Xdit-MD'
+global.author = 'IG @hai_om.qw'
 
 // Thumb & Image random
 global.thumb = fs.readFileSync('./image/keyol.jpg')
